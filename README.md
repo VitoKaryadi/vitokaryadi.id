@@ -1,2 +1,2 @@
-# vitokaryadi.id - Under Maintanance
-### please wait & check it next time!
+# vitokaryadi.id website
+### powered by Github Pages
